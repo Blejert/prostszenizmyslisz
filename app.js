@@ -1,6 +1,7 @@
 const lessons = [['test']];
 var questionNum = 1;
 var lesson = 0;
+var num = 0;
 var answer = document.getElementById('answer');
 var question = document.getElementById('question');
 var result = document.getElementById('result');
